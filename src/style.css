@@ -1,12 +1,12 @@
-div {
+.container {
   margin-bottom: 10px;
 }
 
-fieldset {
+.field {
   margin-bottom: 20px;
 }
 
-fieldset div:last-child {
+.field .container:last-child {
   margin-bottom: 0;
 }
 
